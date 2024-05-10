@@ -2,8 +2,7 @@
 
 Mini-GFS is a simplified implementation of the [Google File System (GFS)](http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) built using Docker containers. This project aims to illustrate the core concepts of GFS, including distributed data storage, metadata management, and client-server interactions. By simulating GFS components within Docker containers, Mini-GFS provides a scalable and fault-tolerant distributed file system suitable for educational purposes and small-scale applications.
     
-![Mini-GFS Diagram](https://raw.githubusercontent.com/YashK2003/Mini-GFS/main/assets/Mini-GFS-Diagram.png)
-
+![minigfs](https://github.com/YashK2003/Mini-GFS/assets/102593613/ebfc90a6-6f2f-49b2-bacd-ec207cd989d8)
 
 ## System Overview
 Mini-GFS consists of the following components:
